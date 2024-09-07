@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Ejerciciossena"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Plantilla"
+	}
+}
